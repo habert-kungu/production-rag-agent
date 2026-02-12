@@ -1,0 +1,25 @@
+# Document Processing
+pdfplumber==0.10.3
+PyPDF2==3.0.1
+pdf2image==1.16.3
+pytesseract==0.3.10
+easyocr==1.7.0
+Pillow==10.1.0
+python-magic==0.4.27
+
+# IFC Processing
+ifcopenshell==0.7.0
+
+# Text Processing
+langdetect==1.0.9
+beautifulsoup4==4.12.2
+lxml==4.9.3
+
+# Utilities
+pydantic==2.5.0
+python-dotenv==1.0.0
+
+# Testing
+pytest==7.4.3
+pytest-asyncio==0.21.1
+EOF
